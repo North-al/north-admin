@@ -1,0 +1,1 @@
+import{d as o,o as t,c as n,a as e}from"./@vue-Bd0BTi52.js";const s=e("h1",null,"Home",-1),a=e("p",null,"Home page content",-1),c=[s,a],p=o({__name:"index",setup(_){return(l,r)=>(t(),n("div",null,c))}});export{p as default};
